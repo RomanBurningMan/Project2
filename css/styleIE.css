@@ -1,0 +1,55 @@
+nav{
+	height: 5em;
+}
+
+.nav_menu-more{
+	width: 1.1em;
+	background-position: 0 50%;
+}
+
+div[class^='img-']:hover{
+	background-image: none;
+}
+
+.second-block{
+	border: 1px solid #444;
+}
+
+.second-block > div{
+	margin-top: 1em;
+	text-align: center;
+}
+
+.icon{
+	width: 1.6em;
+	height: 1.4em;
+}
+
+.like{
+	background-position: -9.6em 50%;
+}
+
+.comment{
+	background-position: -8em 50%;
+}
+
+.looked{
+	background-position: -6.4em 50%;
+}
+
+.icon{
+	margin-right: 0.03em;
+}
+
+.theme li{
+	margin-left: 1em;
+}
+
+.repost{
+	background-position: -9em 50%;
+}
+
+.link{
+	width: 1.2em;
+	background-position: -7.76em 50%;
+}
